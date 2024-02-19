@@ -1,0 +1,500 @@
+1,Pizza,Italian,10.99
+2,Burger,American,8.49
+3,Sushi,Japanese,12.99
+4,Taco,Mexican,6.99
+5,Pad Thai,Thai,11.99
+6,Samosa,Indian,5.99
+7,Croissant,French,3.99
+8,Pasta,Italian,9.99
+9,Sushi Roll,Japanese,14.99
+10,Taco Salad,Mexican,7.99
+11,Steak,American,19.99
+12,Ramen,Japanese,9.49
+13,Peking Duck,Chinese,24.99
+14,Lasagna,Italian,13.49
+15,Pho,Vietnamese,8.99
+16,Sandwich,American,5.49
+17,Fish and Chips,British,11.49
+18,Paella,Spanish,15.99
+19,Sushi Boat,Japanese,39.99
+20,Chicken Tikka Masala,Indian,12.99
+21,Shawarma,Middle Eastern,8.99
+22,Curry,Indian,10.49
+23,Ceviche,Peruvian,16.49
+24,Hot Dog,American,3.99
+25,Calzone,Italian,11.99
+26,Burrito,Mexican,8.49
+27,Margherita Pizza,Italian,9.99
+28,Sushi Burrito,Japanese,13.49
+29,Hamburger,American,7.99
+30,Philly Cheesesteak,American,10.99
+31,Fettuccine Alfredo,Italian,14.99
+32,Dim Sum,Chinese,8.49
+33,Tamale,Mexican,6.99
+34,Gyro,Greek,9.99
+35,Chicken Kebab,Middle Eastern,12.49
+36,Pad See Ew,Thai,10.99
+37,Biryani,Indian,11.99
+38,Miso Soup,Japanese,4.49
+39,Breakfast Burrito,American,8.99
+40,Fried Chicken,American,9.99
+41,Chow Mein,Chinese,8.99
+42,Ratatouille,French,10.99
+43,Beef Wellington,British,29.99
+44,Enchiladas,Mexican,7.49
+45,Stir Fry,Chinese,9.49
+46,Chicken Wings,American,8.99
+47,Risotto,Italian,15.49
+48,Samosa Chaat,Indian,6.49
+49,Moussaka,Greek,13.99
+50,Baklava,Greek,7.99
+51,Tempura,Japanese,10.49
+52,Doner Kebab,Turkish,8.99
+53,Falafel,Middle Eastern,5.99
+54,Tofu Stir Fry,Chinese,9.99
+55,Peri Peri Chicken,Portuguese,11.99
+56,Hummus,Lebanese,6.99
+57,Chili Con Carne,Mexican,8.49
+58,Banh Mi,Vietnamese,5.99
+59,Beef Stroganoff,Russian,14.49
+60,Naan,Indian,3.49
+61,Bangers and Mash,British,9.99
+62,Churros,Spanish,4.99
+63,Goulash,Hungarian,12.99
+64,Cabbage Rolls,Romanian,11.49
+65,Poutine,Canadian,8.99
+66,Meat Pie,Australian,7.49
+67,Chimichanga,Mexican,10.99
+68,Empanadas,Argentinian,6.99
+69,Kimchi,Korean,5.49
+70,Borscht,Russian,6.49
+71,Pierogi,Polish,8.99
+72,Croque Monsieur,French,7.99
+73,Blini,Russian,9.49
+74,Bubble and Squeak,British,6.99
+75,Croqueta,Spanish,5.99
+76,Katsu Curry,Japanese,11.49
+77,Tzatziki,Greek,4.49
+78,Baklava,Greek,7.99
+79,Beef Rendang,Indonesian,14.99
+80,Colcannon,Irish,5.49
+81,Feijoada,Brazilian,12.99
+82,Arepa,Venezuelan,6.49
+83,Chicken Adobo,Filipino,9.99
+84,Coq au Vin,French,16.49
+85,Lomo Saltado,Peruvian,13.99
+86,Sauerbraten,German,17.99
+87,Couscous,Moroccan,8.49
+88,Falafel,Middle Eastern,5.99
+89,Pierogi,Polish,8.99
+90,Guinness Stew,Irish,11.99
+91,Panettone,Italian,9.49
+92,Kebab,Lebanese,7.49
+93,Kafta Kebab,Lebanese,8.49
+94,Cannoli,Italian,6.99
+95,Lobster Roll,American,19.99
+96,Meze,Turkish,17.49
+97,Pad Kee Mao,Thai,12.49
+98,Couscous,Tunisian,11.99
+99,Stroopwafel,Dutch,3.99
+100,Apple Pie,American,7.49
+101,Mushroom Risotto,Italian,14.49
+102,Beef Tacos,Mexican,8.99
+103,Sushi Platter,Japanese,49.99
+104,Pad Kra Pao,Thai,10.99
+105,Chicken Schnitzel,Austrian,12.99
+106,Croissant au Chocolat,French,4.99
+107,Peking Pork,Chinese,11.49
+108,Chicken Parmesan,Italian,13.49
+109,Greek Salad,Greek,7.99
+110,Vietnamese Spring Rolls,Vietnamese,6.49
+111,Paneer Tikka Masala,Indian,11.99
+112,Chicken Shawarma,Middle Eastern,9.99
+113,Tandoori Chicken,Indian,15.99
+114,Seafood Paella,Spanish,19.99
+115,California Roll,Japanese,14.99
+116,Philly Roll,Japanese,16.49
+117,Greek Gyro,Greek,8.49
+118,Sushi Pizza,Japanese,17.99
+119,Baingan Bharta,Indian,10.49
+120,Chicken Satay,Thai,8.99
+121,Beef Rouladen,German,18.99
+122,Falafel Wrap,Lebanese,6.99
+123,Quiche Lorraine,French,8.49
+124,Okonomiyaki,Japanese,11.99
+125,Pierogi Ruskie,Polish,9.49
+126,Bulgogi,Korean,13.49
+127,Beef Chimichurri,Argentinian,16.99
+128,Mango Sticky Rice,Thai,7.99
+129,Schnitzel Sandwich,Austrian,10.99
+130,Coconut Curry,Thai,12.99
+131,Chicken Quesadilla,Mexican,9.99
+132,Kabsa,Saudi Arabian,14.49
+133,Scotch Egg,British,5.99
+134,Lahmacun,Turkish,8.99
+135,Chicken Kiev,Ukrainian,12.99
+136,Pierogi with Bacon,Polish,10.49
+137,Beef Bulgogi Bowl,Korean,11.99
+138,Mahi Mahi Tacos,Mexican,13.49
+139,Chicken Schnitzel Burger,Austrian,11.49
+140,Chicken Biryani,Indian,11.99
+141,Shakshuka,Middle Eastern,9.99
+142,Garlic Naan,Indian,3.99
+143,Sarma,Bosnian,7.49
+144,Borek,Turkish,6.99
+145,Chicken Shawarma Wrap,Middle Eastern,8.99
+146,Arayes,Lebanese,10.99
+147,Huevos Rancheros,Mexican,9.49
+148,Beef Pho,Vietnamese,10.99
+149,Salmon Teriyaki,Japanese,16.99
+150,Cuban Sandwich,Cuban,8.99
+151,Lobster Bisque,French,14.99
+152,Bhel Puri,Indian,5.49
+153,Stuffed Bell Peppers,Mediterranean,9.99
+154,Seafood Chowder,New England,11.99
+155,Tiramisu,Italian,7.99
+156,Chicken Souvlaki,Greek,10.49
+157,Tikka Masala Pizza,Indian,12.99
+158,Chicken Caesar Salad,American,9.99
+159,Beef Stew,Irish,11.99
+160,Moules Frites,Belgian,14.49
+161,Samosa Pie,British,8.49
+162,Salteña,Bolivian,6.99
+163,Grilled Cheese Sandwich,American,5.99
+164,Portuguese Custard Tart,Portuguese,4.49
+165,Manakish,Lebanese,7.99
+166,Corned Beef and Cabbage,Irish,12.99
+167,Prawn Cocktail,British,9.99
+168,Red Curry,Thai,11.49
+169,Avocado Toast,American,7.49
+170,Schweinshaxe,German,16.99
+171,Chicken Alfredo,Italian,13.49
+172,Falooda,Indian,6.99
+173,Chicken Caesar Wrap,American,8.99
+174,Baklava Cheesecake,Greek,8.99
+175,Beef Lo Mein,Chinese,9.99
+176,Beef Bulgogi Tacos,Korean,11.49
+177,Carnitas Tacos,Mexican,10.99
+178,Bibimbap,Korean,12.99
+179,Margherita Flatbread,Italian,10.49
+180,Fish Pie,British,11.99
+181,Katsu Sushi,Japanese,15.99
+182,Chicken Korma,Indian,12.49
+183,Beef Shawarma Plate,Middle Eastern,14.99
+184,Chicken Pad Thai,Thai,10.99
+185,Peruvian Roast Chicken,Peruvian,13.49
+186,Beef Empanadas,Argentinian,8.99
+187,Chicken Fajitas,Mexican,12.49
+188,Stuffed Grape Leaves,Mediterranean,7.99
+189,Pepperoni Stromboli,Italian,9.99
+190,Chicken Schnitzel Platter,Austrian,15.99
+191,Beef Ravioli,Italian,11.49
+192,Chicken Katsu,Japanese,13.99
+193,Stuffed Cabbage Rolls,Russian,10.99
+194,Churro Ice Cream Sandwich,Mexican,6.49
+195,Mushroom Ravioli,Italian,12.99
+196,Shrimp Tempura,Japanese,14.49
+197,Chicken Gyro,Greek,9.49
+198,Pad Lao,Laotian,11.99
+199,Beef Shawarma Wrap,Middle Eastern,9.99
+200,Chicken Teriyaki,Japanese,13.99
+201,Chicken Parmesan Sandwich,Italian,10.99
+202,Shepherd's Pie,British,12.49
+203,Beef Sate,Indonesian,11.99
+204,Chicken Shawarma Plate,Middle Eastern,16.99
+205,Bangers and Mash with Onion Gravy,British,9.99
+206,Beef Bourguignon,French,17.49
+207,Butter Chicken,Indian,14.99
+208,Beef Carpaccio,Italian,15.99
+209,Pasta Primavera,Italian,12.99
+210,Seafood Paella,Spanish,19.99
+211,Croissant Breakfast Sandwich,French,7.99
+212,Beef Stir Fry,Chinese,12.99
+213,Chicken Tagine,Moroccan,13.49
+214,Tofu Pad Thai,Thai,10.49
+215,BBQ Ribs,American,16.99
+216,Seafood Gumbo,Cajun,14.99
+217,Tortilla Española,Spanish,8.99
+218,Beef Pho,Pho,10.99
+219,Shrimp Scampi,Italian,15.99
+220,Beef Wellington,British,29.99
+221,Lamb Gyro,Greek,10.99
+222,Beef Goulash,Hungarian,12.99
+223,Chicken Tikka,Indian,11.49
+224,Beef Tagliata,Italian,18.99
+225,Mushroom Risotto Balls,Italian,8.49
+226,Chicken Manchurian,Chinese,12.99
+227,Pasta Carbonara,Italian,13.49
+228,Spaghetti Bolognese,Italian,12.99
+229,Pad Thai Spring Rolls,Thai,8.99
+230,Chicken Caesar Salad Wrap,American,9.49
+231,Banana Leaf Wrapped Fish,Thai,14.49
+232,Peking Pork,Chinese,11.49
+233,Vegetable Biryani,Indian,10.99
+234,Beef Lok Lak,Cambodian,14.99
+235,Chicken Shawarma Salad,Middle Eastern,11.99
+236,Coconut Shrimp,Caribbean,13.99
+237,Chicken Marsala,Italian,16.99
+238,Cevapi,Balkan,11.49
+239,Tofu Tikka Masala,Indian,12.99
+240,Beef Fajitas,Mexican,13.99
+241,Portobello Mushroom Burger,American,9.99
+242,Shrimp Ceviche,Peruvian,14.49
+243,Chicken Pad See Ew,Thai,11.49
+244,Stuffed Bell Peppers with Quinoa,Mediterranean,10.99
+245,Banana Foster French Toast,American,8.49
+246,Cajun Jambalaya,American,15.99
+247,Pumpkin Risotto,Italian,12.99
+248,Beef Wellington Burger,British,14.99
+249,Spaghetti Carbonara,Italian,13.99
+250,Shrimp Po' Boy,Southern,11.49
+251,Crispy Tofu Bowl,Vegan,9.99
+252,Lemon Chicken Piccata,Italian,16.49
+253,Spicy Tuna Roll,Japanese,11.99
+254,Chicken Yakisoba,Japanese,12.99
+255,Pastrami Sandwich,American,10.99
+256,Beef Kofta,Kurdish,11.99
+257,Stuffed Portobello Mushrooms,Italian,9.49
+258,Spinach and Feta Spanakopita,Greek,7.99
+259,Chicken Fettuccine Alfredo,Italian,14.99
+260,Cucumber Avocado Roll,Japanese,8.99
+261,Shrimp and Grits,Southern,12.99
+262,Pulled Pork Sandwich,American,11.49
+263,Chicken Pesto Panini,Italian,10.49
+264,Beef Pad See Ew,Thai,12.99
+265,Mango Salsa Chicken,Caribbean,13.49
+266,Grilled Vegetable Panini,Mediterranean,9.99
+267,Beef Tamales,Mexican,10.99
+268,Quinoa Stuffed Peppers,Vegan,11.99
+269,Creamy Mushroom Risotto,Italian,13.99
+270,Sweet and Sour Chicken,Chinese,12.49
+271,Chicken Gyro Bowl,Greek,10.99
+272,Beef Quesadilla,Mexican,11.99
+273,Grilled Salmon,Seafood,16.99
+274,Black Bean Enchiladas,Mexican,9.99
+275,Greek Moussaka,Greek,12.99
+276,Chicken Enchiladas,Mexican,10.99
+277,Eggplant Parmesan,Italian,11.49
+278,Beef Stir Fry,Asian,12.99
+279,Vegan Buddha Bowl,Vegan,10.49
+280,Buffalo Chicken Wings,American,11.99
+281,Beef Taco Bowl,Mexican,12.99
+282,Chicken Parmesan,Italian,14.49
+283,Shrimp Stir Fry,Asian,13.99
+284,Chicken Caesar Salad,Italian,10.99
+285,Beef Gyro Bowl,Greek,11.99
+286,Vegetable Lasagna,Italian,12.99
+287,Crispy Tofu Stir Fry,Vegan,10.99
+288,Lemon Garlic Shrimp,Seafood,14.99
+289,Chicken Tikka Masala,Indian,13.49
+290,Beef Stew,European,11.99
+291,Shrimp Tacos,Mexican,13.49
+292,Spinach and Ricotta Ravioli,Italian,12.99
+293,Chicken Tortilla Soup,Mexican,9.49
+294,Beef and Broccoli Stir Fry,Asian,12.99
+295,Chicken Fajita Bowl,Mexican,11.99
+296,Pesto Pasta,Italian,11.99
+297,Honey Garlic Glazed Salmon,Seafood,15.99
+298,Portobello Mushroom Risotto,Italian,13.99
+299,Chicken Caesar Wrap,Italian,9.99
+300,Beef Bibimbap,Korean,14.99
+301,Quinoa Salad,Vegan,10.99
+302,Chicken Teriyaki Bowl,Japanese,12.99
+303,Beef Tacos,Mexican,11.99
+304,Chicken Alfredo Pasta,Italian,13.99
+305,Shrimp Scampi Pasta,Italian,15.49
+306,Beef Bulgogi Bibimbap,Korean,13.99
+307,Thai Green Curry,Thai,12.99
+308,Chicken Quesadillas,Mexican,10.99
+309,Beef Pad Thai,Thai,13.49
+310,Spicy Tofu Ramen,Japanese,11.99
+311,Crispy Chicken Sandwich,American,9.99
+312,Beef Burrito,Mexican,12.99
+313,Chicken Katsu Curry,Japanese,14.49
+314,Shrimp Alfredo Pasta,Italian,14.99
+315,Beef Wellington,English,29.99
+316,Chicken Fajita Wrap,Mexican,10.99
+317,Beef Fried Rice,Chinese,11.99
+318,Chicken Caesar Salad Bowl,Italian,12.49
+319,Shrimp Pad Thai,Thai,13.99
+320,Grilled Chicken Panini,Italian,10.99
+321,Beef Pho Soup,Vietnamese,12.99
+322,Chicken and Rice Pilaf,Middle Eastern,11.49
+323,Spicy Pork Ramen,Japanese,12.99
+324,Beef Stroganoff,European,13.99
+325,Sweet and Sour Pork,Chinese,11.99
+326,Chicken Tikka Wrap,Indian,10.99
+327,Beef Biryani,Indian,13.99
+328,Shrimp Fried Rice,Chinese,12.99
+329,Tofu Stir Fry,Asian,10.99
+330,Chicken Pot Pie,American,11.99
+331,Beef Shawarma Wrap,Lebanese,12.99
+332,Chicken Pad See Ew,Thai,11.49
+333,Vegan Pizza,Vegan,11.99
+334,Beef Rendang,Indonesian,14.99
+335,Chicken Korma,Indian,13.49
+336,Shrimp Tempura Roll,Japanese,13.99
+337,Beef Chimichanga,Mexican,12.99
+338,Chicken Souvlaki Pita,Greek,10.99
+339,Beef Chow Mein,Chinese,12.49
+340,Chicken Cacciatore,Italian,14.49
+341,Shrimp Lo Mein,Chinese,13.99
+342,Chicken Adobo,Filipino,12.99
+343,Beef Teriyaki Bowl,Japanese,14.49
+344,Chicken Yakitori,Japanese,11.49
+345,Beef Kebab,Middle Eastern,13.99
+346,Chicken Gyro Wrap,Greek,11.99
+347,Beef Bibimbap Bowl,Korean,14.99
+348,Chicken Shawarma Plate,Middle Eastern,15.99
+349,Beef Bulgogi Bibimbap Bowl,Korean,13.99
+350,Chicken Caesar Salad Wrap,American,9.99
+351,Beef Pad Thai,Thai,13.49
+352,Shrimp Alfredo Pasta,Italian,14.99
+353,Chicken Fajita Wrap,Mexican,10.99
+354,Beef Fried Rice,Chinese,11.99
+355,Chicken Tikka Wrap,Indian,10.99
+356,Beef Shawarma Wrap,Lebanese,12.99
+357,Chicken Caesar Salad Bowl,Italian,12.49
+358,Beef Burrito,Mexican,12.99
+359,Chicken Katsu Curry,Japanese,14.49
+360,Beef Pho Soup,Vietnamese,12.99
+361,Chicken Fajita Bowl,Mexican,11.99
+362,Shrimp Scampi Pasta,Italian,15.49
+363,Beef Stroganoff,European,13.99
+364,Chicken and Rice Pilaf,Middle Eastern,11.49
+365,Spicy Pork Ramen,Japanese,12.99
+366,Beef Biryani,Indian,13.99
+367,Shrimp Fried Rice,Chinese,12.99
+368,Tofu Stir Fry,Asian,10.99
+369,Chicken Caesar Salad,Italian,10.99
+370,Grilled Chicken Panini,Italian,10.99
+371,Shrimp Pad Thai,Thai,13.99
+372,Beef Pho Soup,Vietnamese,12.99
+373,Chicken Fajita Wrap,Mexican,10.99
+374,Beef Fried Rice,Chinese,11.99
+375,Chicken Caesar Salad Bowl,Italian,12.49
+376,Beef Burrito,Mexican,12.99
+377,Chicken Katsu Curry,Japanese,14.49
+378,Beef Pho Soup,Vietnamese,12.99
+379,Chicken Fajita Bowl,Mexican,11.99
+380,Shrimp Scampi Pasta,Italian,15.49
+381,Beef Stroganoff,European,13.99
+382,Chicken and Rice Pilaf,Middle Eastern,11.49
+383,Spicy Pork Ramen,Japanese,12.99
+384,Beef Biryani,Indian,13.99
+385,Shrimp Fried Rice,Chinese,12.99
+386,Tofu Stir Fry,Asian,10.99
+387,Chicken Caesar Salad,Italian,10.99
+388,Grilled Chicken Panini,Italian,10.99
+389,Shrimp Pad Thai,Thai,13.99
+390,Beef Pho Soup,Vietnamese,12.99
+391,Chicken Fajita Wrap,Mexican,10.99
+392,Beef Fried Rice,Chinese,11.99
+393,Chicken Caesar Salad Bowl,Italian,12.49
+394,Beef Burrito,Mexican,12.99
+395,Chicken Katsu Curry,Japanese,14.49
+396,Beef Pho Soup,Vietnamese,12.99
+397,Chicken Fajita Bowl,Mexican,11.99
+398,Shrimp Scampi Pasta,Italian,15.49
+399,Beef Stroganoff,European,13.99
+400,Chicken and Rice Pilaf,Middle Eastern,11.49
+401,Spicy Pork Ramen,Japanese,12.99
+402,Beef Biryani,Indian,13.99
+403,Shrimp Fried Rice,Chinese,12.99
+404,Tofu Stir Fry,Asian,10.99
+405,Chicken Caesar Salad,Italian,10.99
+406,Grilled Chicken Panini,Italian,10.99
+407,Shrimp Pad Thai,Thai,13.99
+408,Beef Pho Soup,Vietnamese,12.99
+409,Chicken Fajita Wrap,Mexican,10.99
+410,Beef Fried Rice,Chinese,11.99
+411,Chicken Caesar Salad Bowl,Italian,12.49
+412,Beef Burrito,Mexican,12.99
+413,Chicken Katsu Curry,Japanese,14.49
+414,Beef Pho Soup,Vietnamese,12.99
+415,Chicken Fajita Bowl,Mexican,11.99
+416,Shrimp Scampi Pasta,Italian,15.49
+417,Beef Stroganoff,European,13.99
+418,Chicken and Rice Pilaf,Middle Eastern,11.49
+419,Spicy Pork Ramen,Japanese,12.99
+420,Beef Biryani,Indian,13.99
+421,Shrimp Fried Rice,Chinese,12.99
+422,Tofu Stir Fry,Asian,10.99
+423,Chicken Caesar Salad,Italian,10.99
+424,Grilled Chicken Panini,Italian,10.99
+425,Shrimp Pad Thai,Thai,13.99
+426,Beef Pho Soup,Vietnamese,12.99
+427,Chicken Fajita Wrap,Mexican,10.99
+428,Beef Fried Rice,Chinese,11.99
+429,Chicken Caesar Salad Bowl,Italian,12.49
+430,Beef Burrito,Mexican,12.99
+431,Chicken Katsu Curry,Japanese,14.49
+432,Beef Pho Soup,Vietnamese,12.99
+433,Chicken Fajita Bowl,Mexican,11.99
+434,Shrimp Scampi Pasta,Italian,15.49
+435,Beef Stroganoff,European,13.99
+436,Chicken and Rice Pilaf,Middle Eastern,11.49
+437,Spicy Pork Ramen,Japanese,12.99
+438,Beef Biryani,Indian,13.99
+439,Shrimp Fried Rice,Chinese,12.99
+440,Tofu Stir Fry,Asian,10.99
+441,Chicken Caesar Salad,Italian,10.99
+442,Grilled Chicken Panini,Italian,10.99
+443,Shrimp Pad Thai,Thai,13.99
+444,Beef Pho Soup,Vietnamese,12.99
+445,Chicken Fajita Wrap,Mexican,10.99
+446,Beef Fried Rice,Chinese,11.99
+447,Chicken Caesar Salad Bowl,Italian,12.49
+448,Beef Burrito,Mexican,12.99
+449,Chicken Katsu Curry,Japanese,14.49
+450,Beef Pho Soup,Vietnamese,12.99
+451,Chicken Fajita Bowl,Mexican,11.99
+452,Shrimp Scampi Pasta,Italian,15.49
+453,Beef Stroganoff,European,13.99
+454,Chicken and Rice Pilaf,Middle Eastern,11.49
+455,Spicy Pork Ramen,Japanese,12.99
+456,Beef Biryani,Indian,13.99
+457,Shrimp Fried Rice,Chinese,12.99
+458,Tofu Stir Fry,Asian,10.99
+459,Chicken Caesar Salad,Italian,10.99
+460,Grilled Chicken Panini,Italian,10.99
+461,Shrimp Pad Thai,Thai,13.99
+462,Beef Pho Soup,Vietnamese,12.99
+463,Chicken Fajita Wrap,Mexican,10.99
+464,Beef Fried Rice,Chinese,11.99
+465,Chicken Caesar Salad Bowl,Italian,12.49
+466,Beef Burrito,Mexican,12.99
+467,Chicken Katsu Curry,Japanese,14.49
+468,Beef Pho Soup,Vietnamese,12.99
+469,Chicken Fajita Bowl,Mexican,11.99
+470,Shrimp Scampi Pasta,Italian,15.49
+471,Beef Stroganoff,European,13.99
+472,Chicken and Rice Pilaf,Middle Eastern,11.49
+473,Spicy Pork Ramen,Japanese,12.99
+474,Beef Biryani,Indian,13.99
+475,Shrimp Fried Rice,Chinese,12.99
+476,Tofu Stir Fry,Asian,10.99
+477,Chicken Caesar Salad,Italian,10.99
+478,Grilled Chicken Panini,Italian,10.99
+479,Shrimp Pad Thai,Thai,13.99
+480,Beef Pho Soup,Vietnamese,12.99
+481,Chicken Fajita Wrap,Mexican,10.99
+482,Beef Fried Rice,Chinese,11.99
+483,Chicken Caesar Salad Bowl,Italian,12.49
+484,Beef Burrito,Mexican,12.99
+485,Chicken Katsu Curry,Japanese,14.49
+486,Beef Pho Soup,Vietnamese,12.99
+487,Chicken Fajita Bowl,Mexican,11.99
+488,Shrimp Scampi Pasta,Italian,15.49
+489,Beef Stroganoff,European,13.99
+490,Chicken and Rice Pilaf,Middle Eastern,11.49
+491,Spicy Pork Ramen,Japanese,12.99
+492,Beef Biryani,Indian,13.99
+493,Shrimp Fried Rice,Chinese,12.99
+494,Tofu Stir Fry,Asian,10.99
+495,Chicken Caesar Salad,Italian,10.99
+496,Grilled Chicken Panini,Italian,10.99
+497,Shrimp Pad Thai,Thai,13.99
+498,Beef Pho Soup,Vietnamese,12.99
+499,Chicken Fajita Wrap,Mexican,10.99
+500,Beef Fried Rice,Chinese,11.99
