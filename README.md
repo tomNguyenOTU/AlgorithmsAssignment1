@@ -1,5 +1,3 @@
-# AlgorithmsAssignment1
- 
 
 using namespace std;
 #include <iostream>
@@ -292,9 +290,9 @@ public:
         Node* _temp = head;
         while (_temp != nullptr)
         {
-            cout << "ID: " << _temp->product->id << ","
-                << "Name: " << _temp->product->name << ","
-                << "Category: " << _temp->product->category << ","
+            cout << "ID: " << _temp->product->id << ", "
+                << "Name: " << _temp->product->name << ", "
+                << "Category: " << _temp->product->category << ", "
                 << "Price: " << _temp->product->price << "\n";
 
             _temp = _temp->next;
@@ -317,14 +315,15 @@ public:
 
         while (getline(file, line)) {
             istringstream iss(line); // iss: istringstream
+            line.erase(remove_if(line.begin(), line.end(), ::isspace), line.end());
             char c = ','; // delimiter
             string id, name, category, price;
 
             // parses the line also checks if it can be parsed at all
             if (getline(iss, id, c) &&
                 getline(iss, name, c) &&
-                getline(iss, category, c) &&
-                getline(iss, price)) 
+                getline(iss, price, c) &&
+                getline(iss, category, c)) 
             {
                 Product newProduct(stoi(id), name, category, stof(price));
                 products.push_back(newProduct);
@@ -345,13 +344,13 @@ public:
         }
 
         Node* _temp = list->head;
-        char c = ',';
+        string c = ", ";
 
         while (_temp != nullptr) { // writes to file
             file << _temp->product->id << c
                 << _temp->product->name << c
-                << _temp->product->category << c
-                << _temp->product->price << "\n";
+                << _temp->product->price << c
+                << _temp->product->category << "\n";
 
             _temp = _temp->next;
         }
@@ -378,3 +377,4 @@ int main()
 
     return 0;
 }
+
